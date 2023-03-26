@@ -1,0 +1,74 @@
+
+{
+"jams": [
+    {
+      "id": 1,
+      "name": "Corey Mac Blues Jam",
+      "imageUrl": "https://www.visitmusiccity.com/sites/www/files/externals/eacb1f2cb02eaa4d1fe2d73cc602a20c.jpg",
+      "genreId": 1,
+      "locationId": 4
+    },
+    {
+      "id": 2,
+      "name": "Robert's Country Jam",
+      "imageUrl": "https://eventective-media.azureedge.net/2901250_lg.jpg",
+      "genreId": 2,
+      "locationId": 2
+    },
+    {
+      "id": 3,
+      "name": "Pro Jazz Jam",
+      "imageUrl": "https://cdn2.jazztimes.com/2020/05/rudys-jazz-room.jpg",
+      "genreId": 3,
+      "locationId": 3
+    },
+    {
+      "id": 4,
+      "name": "The Invite",
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/5a023d9daeb62520bee1e498/1604000405743-D3ISU9DHRFI5XGYDBU4W/flamingo-12.jpg?format=1000w",
+      "genreId": 4,
+      "locationId": 4
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "name": "Blues"
+    },
+    {
+      "id": 2,
+      "name": "Country"
+    },
+    {
+      "id": 3,
+      "name": "Jazz"
+    },
+    {
+        "id": 4,
+        "name": "R and B"
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Bourbon Street Blues",
+      "address": "220 Printers Alley, Nashville, TN 37201"
+    },
+    {
+      "id": 2,
+      "name": "Roberts Western World",
+      "genreId": 2,
+      "address": "416 Broadway # B, Nashville, TN 37203"
+    },
+    {
+      "id": 3,
+      "name": "Rudy's Jazz Room",
+      "address": "809 Gleaves St, Nashville, TN 37203"
+    },
+    {
+      "id": 4,
+      "name": "Flamingo Cocktail Club",
+      "address": "509 Houston St, Nashville, TN 37203"
+    }
+  ]
+}
