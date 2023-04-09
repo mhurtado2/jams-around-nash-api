@@ -27,6 +27,7 @@
       "imageUrl": "https://www.visitmusiccity.com/sites/www/files/externals/eacb1f2cb02eaa4d1fe2d73cc602a20c.jpg",
       "genreId": 2,
       "address": "220 Printers Alley, Nashville, TN 37201",
+      "userId": 1,
       "areaOfTownId": 1
     },
     {
@@ -36,6 +37,7 @@
       "imageUrl": "https://eventective-media.azureedge.net/2901250_lg.jpg",
       "genreId": 2,
       "address": "416 Broadway # B, Nashville, TN 37203",
+      "userId": 1,
       "areaOfTownId": 1
     },
     {
@@ -45,6 +47,7 @@
       "imageUrl": "https://cdn2.jazztimes.com/2020/05/rudys-jazz-room.jpg",
       "genreId": 3,
       "address": "809 Gleaves St, Nashville, TN 37203",
+      "userId": 1,
       "areaOfTownId": 3
     },
     {
@@ -54,6 +57,7 @@
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/5a023d9daeb62520bee1e498/1604000405743-D3ISU9DHRFI5XGYDBU4W/flamingo-12.jpg?format=1000w",
       "genreId": 4,
       "address": "509 Houston St, Nashville, TN 37203",
+      "userId": 1,
       "areaOfTownId": 4
     },
     {
@@ -63,6 +67,7 @@
       "genreId": 2,
       "address": "809 Gleaves St, Nashville, TN 37203",
       "areaOfTownId": 2,
+      "userId": 1,
       "id": 5
     },
     {
@@ -72,6 +77,7 @@
       "genreId": 3,
       "address": "210 Louise Ave, Nashville, TN 37203",
       "areaOfTownId": 3,
+      "userId": 1,
       "id": 6
     }
   ],
