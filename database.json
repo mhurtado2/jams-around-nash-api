@@ -73,24 +73,6 @@
       "address": "210 Louise Ave, Nashville, TN 37203",
       "areaOfTownId": 3,
       "id": 6
-    },
-    {
-      "jamName": "Maddys Jam",
-      "venueName": "Maddies House",
-      "imageUrl": "blah",
-      "genreId": 2,
-      "address": "1058 Zophi Street, Nashville, Tn 37214",
-      "areaOfTownId": 3,
-      "id": 7
-    },
-    {
-      "jamName": "shane Jam",
-      "venueName": "Shane's House",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0385/1409/files/East-1.jpg?v=1673987974&width=3840",
-      "genreId": 1,
-      "address": "2712 wellman drive, nashville, tn 37214",
-      "areaOfTownId": 2,
-      "id": 8
     }
   ],
   "genres": [
