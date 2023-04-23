@@ -25,7 +25,7 @@
       "jamName": "Corey Mac Blues Jam",
       "venueName": "Bourbon Street Blues",
       "imageUrl": "https://www.visitmusiccity.com/sites/www/files/externals/eacb1f2cb02eaa4d1fe2d73cc602a20c.jpg",
-      "genreId": 2,
+      "genreId": 1,
       "address": "220 Printers Alley, Nashville, TN 37201",
       "userId": 1,
       "areaOfTownId": 1
@@ -79,6 +79,16 @@
       "areaOfTownId": 3,
       "userId": 1,
       "id": 6
+    },
+    {
+      "userId": 2,
+      "jamName": "Maddys Jam",
+      "venueName": "the 8th room",
+      "imageUrl": "https://nashvilleguru.com/officialwebsite/wp-content/uploads/2022/04/8th-Avenue-Midtown-Nashville-2022-48-1024x682.jpg",
+      "genreId": 3,
+      "address": "2712 wellman dr",
+      "areaOfTownId": 2,
+      "id": 7
     }
   ],
   "genres": [
@@ -115,6 +125,28 @@
     {
       "id": 4,
       "name": "Berry Hill"
+    }
+  ],
+  "userGenres": [
+    {
+      "userId": 1,
+      "genreId": 1
+    },
+    {
+      "userId": 1,
+      "genreId": 2
+    },
+    {
+        "userId": 1,
+        "genreId": 3
+    },
+    {
+        "userId": 2,
+        "genreId": 2
+    },
+    {
+        "userId": 2,
+        "genreId": 3
     }
   ]
 }
